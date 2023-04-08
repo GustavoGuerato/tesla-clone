@@ -1,7 +1,8 @@
 import React from "react";
-import logo from "./logo.svg";
-import { Counter } from "./features/counter/Counter";
+
 import "./App.css";
+
+// eslint-disable-next-line no-unused-vars
 import Header from "./components/Header";
 import Home from "./components/Home";
 
