@@ -60,15 +60,6 @@ function Header() {
         <li>
           <a href="#">Roadster</a>
         </li>
-        <li>
-          <a href="#">Existing Inventory</a>
-        </li>
-        <li>
-          <a href="#">Existing Inventory</a>
-        </li>
-        <li>
-          <a href="#">Existing Inventory</a>
-        </li>
       </BurgerNav>
     </Container>
   );
